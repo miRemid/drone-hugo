@@ -13,7 +13,7 @@ import (
 )
 
 var (
-	url = "https://github.com/gohugoio/hugo/releases/download/v%s/%s_%s_%s-%s.tar.gz"
+	url = "https://gh.api.99988866.xyz/https://github.com/gohugoio/hugo/releases/download/v%s/%s_%s_%s-%s.tar.gz"
 )
 
 // Get will download the specified hugo verion

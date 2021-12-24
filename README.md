@@ -1,3 +1,4 @@
+> This is a fork from [official git repo](https://github.com/drone-plugins/drone-hugo)
 # drone-hugo
 
 [![Build Status](http://cloud.drone.io/api/badges/drone-plugins/drone-hugo/status.svg)](http://cloud.drone.io/drone-plugins/drone-hugo)
